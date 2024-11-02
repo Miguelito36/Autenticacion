@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\usuario\\source\\repos\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\usuario\\source\\repos\\autenticacion\\pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\usuario\\source\\repos\\autenticacion\\pages\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\usuario\\source\\repos\\autenticacion\\pages\\subject\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\subject\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 444,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T20:37:12.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Teacher\\Teacher.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml",
+              "RelativeToolTip": "Pages\\Teacher\\Teacher.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T20:35:29.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Subject\\Subject.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Subject\\Subject.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Subject\\Subject.cshtml",
+              "RelativeToolTip": "Pages\\Subject\\Subject.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T20:35:20.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Student\\Student.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Student\\Student.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Pages\\Student\\Student.cshtml",
+              "RelativeToolTip": "Pages\\Student\\Student.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T20:35:07.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
