@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Autenticacion.csproj": {}
+    "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Autenticacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Autenticacion.csproj": {
+    "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Autenticacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Autenticacion.csproj",
+        "projectUniqueName": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Autenticacion.csproj",
         "projectName": "Autenticacion",
-        "projectPath": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\Autenticacion.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\source\\repos\\Autenticacion\\obj\\",
+        "projectPath": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Autenticacion.csproj",
+        "packagesPath": "C:\\Users\\jomia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jomia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
