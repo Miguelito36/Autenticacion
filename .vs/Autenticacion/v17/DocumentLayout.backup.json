@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\student\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\subject\\subject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\subject\\subject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\teacher\\teacher.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\teacher\\teacher.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|c:\\users\\jomia\\source\\repos\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEB34D30-650B-42A4-8AC0-C691B772A777}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,14 +79,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:32:26.42Z",
+              "WhenOpened": "2024-11-06T18:54:25.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:54:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T18:48:25.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Teacher\\Teacher.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml.cs",
+              "RelativeToolTip": "Pages\\Teacher\\Teacher.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:47:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Subject\\Subject.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Subject\\Subject.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Subject\\Subject.cshtml.cs",
+              "RelativeToolTip": "Pages\\Subject\\Subject.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:47:37.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Student\\Student.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Student\\Student.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Student\\Student.cshtml.cs",
+              "RelativeToolTip": "Pages\\Student\\Student.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:44:48.822Z",
               "EditorCaption": ""
             },
             {
@@ -80,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -88,12 +177,37 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:21:45.737Z",
+              "WhenOpened": "2024-11-06T18:21:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T20:37:12.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:32:26.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
@@ -101,12 +215,11 @@
               "RelativeToolTip": "Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAuwCAAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T03:39:30.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T03:39:30.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
@@ -114,12 +227,11 @@
               "RelativeToolTip": "Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T20:48:45.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T20:48:45.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
@@ -127,24 +239,11 @@
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T20:45:07.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T20:45:07.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T20:37:12.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Teacher.cshtml",
               "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml",
               "RelativeDocumentMoniker": "Pages\\Teacher\\Teacher.cshtml",
@@ -156,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Subject.cshtml",
               "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Subject\\Subject.cshtml",
               "RelativeDocumentMoniker": "Pages\\Subject\\Subject.cshtml",
@@ -168,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Student.cshtml",
               "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\Autenticacion\\Pages\\Student\\Student.cshtml",
               "RelativeDocumentMoniker": "Pages\\Student\\Student.cshtml",
